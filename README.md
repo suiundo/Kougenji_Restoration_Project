@@ -1,2 +1,2 @@
 # Kougenji_Restoration_Project
-This project aims at collecting funds for the restoration project of celestial maiden pictures on the wall in Kougenji Temple by introducing an NFT sale.
+奈良県田原本町の光源寺にある天女図を始めとした文化財を修復するための寄付金を募るために発足したプロジェクトです。
